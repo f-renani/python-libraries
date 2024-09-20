@@ -14,3 +14,10 @@ This repository contains a collection of Python scripts and notebooks focused on
 1. Clone the repository:
    ```bash
    git clone https://github.com/f-renani/python-libraries.git
+
+
+## Contributing
+Contributions are welcome! Feel free to add more examples or methods.
+
+## License
+This project is licensed under the MIT License.
